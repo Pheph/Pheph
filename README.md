@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently a student<br>👯 I'm looking to collaborate on innovative projects<br>🤝 I'm looking for help to stay updated on the latest recommended trends.<br>🌱 Currently, I am learning everything related to web development.<br>💬 Ask me anything; I might not know the answer, but I'll do my best to help you.<br>⚡ Fun fact: 
+🔭 I am currently a student<br>👯 I'm looking to collaborate on innovative projects<br>🤝 I'm looking for help to stay updated on the latest recommended trends.<br>🌱 Currently, I am learning everything related to web development.<br>💬 Ask me anything; I might not know the answer, but I'll do my best to help you.<br> 
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pheph&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
