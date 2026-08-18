@@ -21,7 +21,6 @@ I believe strong fundamentals create long-term leverage.
 
 ## 🛠 Technologies I'm Working With
 
-- JavaScript (core concepts)
 - Python (foundations for AI/ML)
 - HTML & CSS
 - Git & GitHub
