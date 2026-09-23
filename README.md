@@ -1,51 +1,46 @@
-# 👋 Hi, I'm Phelipi Pinheiro
+# Phelipi Pinheiro
 
-### 🚀 Software Developer in Strategic Growth
+**Análise de dados e Business Intelligence** · Aveiro, Portugal
 
-I am intentionally building a strong programming foundation before moving into advanced fields like Artificial Intelligence and Machine Learning.
+Formei-me em Análise e Desenvolvimento de Sistemas e passei pelo Itaú Unibanco a construir automações em Python e VBA. Foi aí que percebi o que me interessa: tirar o trabalho repetitivo das mãos das pessoas e devolver os dados já em forma de decisão. Hoje especializo-me em Ciência de Dados, em Aveiro.
 
-My focus is not speed — it's depth.
+## Formação em curso
 
----
+**Técnico Especialista em Gestão de Informação e Ciência dos Dados**
+IEFP Aveiro / C-EFAV · maio 2026 a maio 2027 · nível 5 do QNQ
 
-## 🧠 Current Focus
+Análise de dados com Python (exploração, limpeza, visualização e modelos analíticos), consulta e modelação em SQL, estatística aplicada à decisão, dashboards de Business Intelligence e storytelling com dados.
 
-- Mastering JavaScript fundamentals
-- Strengthening Python step by step
-- Building logical thinking through console projects
-- Learning Git and version control properly
+## Projetos
 
-I believe strong fundamentals create long-term leverage.
+| Projeto | O que é | Ferramentas |
+|---|---|---|
+| [Análise de aluguer de viaturas](https://github.com/Pheph/powerbi-aluguer-viaturas) | Dashboard de receita com modelo em estrela construído de raiz e medidas DAX de *time intelligence*: total do período, acumulado no ano e comparação com o ano anterior | Power BI, Power Query, DAX |
+| [Base de dados relacional](https://github.com/Pheph/mysql-base-dados-relacional) | Modelação de um stand automóvel em cinco tabelas normalizadas até à 3.ª Forma Normal, com integridade referencial e consultas que respondem a questões de negócio | MySQL, MySQL Workbench |
 
----
+## Ferramentas
 
-## 🛠 Technologies I'm Working With
+Python · SQL · Power BI · Excel · VBA
 
-- Python (foundations for AI/ML)
-- HTML & CSS
-- Git & GitHub
+## Experiência
 
----
+**Estágio Profissional em Tecnologia** · Itaú Unibanco, São Paulo · outubro 2022 a janeiro 2024
 
-## 📈 Long-Term Direction
+Automações e scripts em Python e VBA para reduzir tarefas manuais em processos internos. Apoio ao desenvolvimento e manutenção de aplicações internas, recolha e análise de dados para projetos de melhoria contínua, e documentação técnica.
 
-I am preparing myself for:
+Certificação **Lean Trained** (Itaú Unibanco, 2023).
 
-- Advanced Software Development
-- Artificial Intelligence
-- Machine Learning
+## Também construo produto
 
-Every project I build now is part of a bigger strategy.
+Fora do percurso de dados, construí e mantenho em produção uma aplicação de marcações para profissionais independentes, em Next.js, TypeScript, Supabase e Stripe, com negócios reais a pagar subscrição. O repositório é privado por conter dados de clientes, mas mostro o produto e o código numa conversa.
 
----
+Aqui no perfil fica o [SleepBand](https://github.com/Pheph/SleepBand), uma página feita à mão com SVG interativo e respeito por `prefers-reduced-motion`.
 
-## 📌 Philosophy
+## Formação anterior
 
-- Think before coding  
-- Build systems, not hype  
-- Strong foundations over shortcuts  
-- Consistency over motivation  
+**Análise e Desenvolvimento de Sistemas** · FIAP, Brasil · fevereiro 2021 a fevereiro 2023
+Licenciatura tecnológica: lógica e programação, programação orientada a objetos, bases de dados e SQL, desenvolvimento web e fundamentos de engenharia de software.
 
----
+## Contacto
 
-> Discipline compounds. One structured commit at a time.
+[phepinheiro11@gmail.com](mailto:phepinheiro11@gmail.com) · [LinkedIn](https://linkedin.com/in/phelipi-pinheiro)
