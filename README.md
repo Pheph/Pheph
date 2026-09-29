@@ -11,7 +11,15 @@ IEFP Aveiro / C-EFAV · maio 2026 a maio 2027 · nível 5 do QNQ
 
 Análise de dados com Python (exploração, limpeza, visualização e modelos analíticos), consulta e modelação em SQL, estatística aplicada à decisão, dashboards de Business Intelligence e storytelling com dados.
 
-## Projetos
+## Projetos em destaque
+
+### [Pontualidade de voos (OTP)](https://github.com/Pheph/powerbi-voos-otp)
+
+Dashboard em Power BI para analisar 5.204 voos da Tailspin Toys ao longo do ano fiscal de 2022. O relatório acompanha cancelamentos, atrasos e pontualidade por mês e rota; o OTP global foi **87,03%**, com março abaixo da meta de 80%. O projeto inclui transformação em Power Query, modelo temporal e medidas DAX de *time intelligence*.
+
+**Power BI · Power Query · DAX** · [Ver o relatório e os detalhes](https://github.com/Pheph/powerbi-voos-otp#resultado)
+
+### Outros projetos
 
 | Projeto | O que é | Ferramentas |
 |---|---|---|
