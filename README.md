@@ -19,12 +19,11 @@ Dashboard em Power BI para analisar 5.204 voos da Tailspin Toys ao longo do ano 
 
 **Power BI · Power Query · DAX** · [Ver o relatório e os detalhes](https://github.com/Pheph/powerbi-voos-otp#resultado)
 
-### Outros projetos
+### [SleepBand](https://github.com/Pheph/SleepBand)
 
-| Projeto | O que é | Ferramentas |
-|---|---|---|
-| [Análise de aluguer de viaturas](https://github.com/Pheph/powerbi-aluguer-viaturas) | Dashboard de receita com modelo em estrela construído de raiz e medidas DAX de *time intelligence*: total do período, acumulado no ano e comparação com o ano anterior | Power BI, Power Query, DAX |
-| [Base de dados relacional](https://github.com/Pheph/mysql-base-dados-relacional) | Modelação de um stand automóvel em cinco tabelas normalizadas até à 3.ª Forma Normal, com integridade referencial e consultas que respondem a questões de negócio | MySQL, MySQL Workbench |
+Página interativa criada para uma apresentação oral de inglês, entregue como alternativa a slides. Inclui uma ilustração SVG interativa e respeita a preferência por movimento reduzido (`prefers-reduced-motion`).
+
+**HTML · CSS · JavaScript · SVG**
 
 ## Ferramentas
 
@@ -41,8 +40,6 @@ Certificação **Lean Trained** (Itaú Unibanco, 2023).
 ## Também construo produto
 
 Fora do percurso de dados, construí e mantenho em produção uma aplicação de marcações para profissionais independentes, em Next.js, TypeScript, Supabase e Stripe, com negócios reais a pagar subscrição. O repositório é privado por conter dados de clientes, mas mostro o produto e o código numa conversa.
-
-Aqui no perfil fica o [SleepBand](https://github.com/Pheph/SleepBand), uma página feita à mão com SVG interativo e respeito por `prefers-reduced-motion`.
 
 ## Formação anterior
 
