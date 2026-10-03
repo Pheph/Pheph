@@ -13,6 +13,12 @@ Análise de dados com Python (exploração, limpeza, visualização e modelos an
 
 ## Projetos em destaque
 
+### [Fruit Analytics — análise comercial de fruta](https://github.com/Pheph/powerbi-fruit-analytics)
+
+Dashboard em Power BI para uma distribuidora fictícia de fruta. A visão executiva acompanha vendas, margem e desempenho por canal; as páginas analíticas exploram clientes, cidades, produtos e evolução temporal. No contexto apresentado, o total de vendas foi **754 414,51 €** e o canal Supermercado liderou com **309 663,19 €**.
+
+**Power BI · DAX · Modelação dimensional** · [Ver o relatório e os detalhes](https://github.com/Pheph/powerbi-fruit-analytics)
+
 ### [Pontualidade de voos (OTP)](https://github.com/Pheph/powerbi-voos-otp)
 
 Dashboard em Power BI para analisar 5.204 voos da Tailspin Toys ao longo do ano fiscal de 2022. O relatório acompanha cancelamentos, atrasos e pontualidade por mês e rota; o OTP global foi **87,03%**, com março abaixo da meta de 80%. O projeto inclui transformação em Power Query, modelo temporal e medidas DAX de *time intelligence*.
@@ -39,7 +45,7 @@ Certificação **Lean Trained** (Itaú Unibanco, 2023).
 
 ## Também construo produto
 
-Fora do percurso de dados, construí e mantenho em produção uma aplicação de marcações para profissionais independentes, em Next.js, TypeScript, Supabase e Stripe, com negócios reais a pagar subscrição. O repositório é privado por conter dados de clientes, mas mostro o produto e o código numa conversa.
+Fora do percurso de dados, construí e mantenho em produção uma aplicação de marcações para profissionais independentes, em Next.js, TypeScript, Supabase e Stripe, com negócios reais a pagar subscrição. O repositório de código é privado; a aplicação trata dados pessoais associados às marcações.
 
 ## Formação anterior
 
