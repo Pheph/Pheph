@@ -45,7 +45,13 @@ Certificação **Lean Trained** (Itaú Unibanco, 2023).
 
 ## Também construo produto
 
-Fora do percurso de dados, construí e mantenho em produção uma aplicação de marcações para profissionais independentes, em Next.js, TypeScript, Supabase e Stripe, com negócios reais a pagar subscrição. O repositório de código é privado; a aplicação trata dados pessoais associados às marcações.
+### Linkse
+
+Agenda online para profissionais independentes: cada profissional apresenta os serviços e horários numa página própria, e os clientes marcam através de um link. Construí e mantenho o produto em produção, com negócios reais a pagar subscrição.
+
+[Conhecer o Linkse](https://linkse.pt)
+
+**Next.js · TypeScript · Supabase · Stripe** · O repositório de código é privado; a aplicação trata dados pessoais associados às marcações.
 
 ## Formação anterior
 
